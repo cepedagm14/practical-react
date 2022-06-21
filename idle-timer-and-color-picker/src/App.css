@@ -40,3 +40,9 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+.color {
+  width: 250px;
+  height: 250px;
+  background-color: #61dafb;
+}
